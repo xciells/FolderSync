@@ -37,6 +37,5 @@ You can either download the latest release or build the project from source.
    dotnet build --configuration Release
    dotnet run
 3. **Run the project**:
-   ```bash
-   Navigate to the bin/Release/ directory where the FolderSync.exe (or equivalent executable) is located.
+   Navigate to the bin/Release/ directory where the FolderSync.exe is located.
    Run FolderSync.exe to start the application.
