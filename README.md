@@ -32,3 +32,7 @@ You can either download the latest release or build the project from source.
    ```bash
    git clone https://github.com/xciells/FolderSync.git
    cd FolderSync
+1. **Build and run the project**:
+   dotnet build --configuration Release
+   dotnet run
+
