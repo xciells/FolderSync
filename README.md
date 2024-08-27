@@ -31,8 +31,12 @@ You can either download the latest release or build the project from source.
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/xciells/FolderSync.git
-   cd FolderSync
-1. **Build and run the project**:
+   cd FolderSync/FolderSync/src
+2. **Build and run the project**:
+   ```bash
    dotnet build --configuration Release
    dotnet run
-
+3. **Run the project**:
+   ```bash
+   Navigate to the bin/Release/ directory where the FolderSync.exe (or equivalent executable) is located.
+   Run FolderSync.exe to start the application.
