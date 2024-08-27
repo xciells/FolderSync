@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FolderSync": {
+      "commandName": "Project",
+      "commandLineArgs": "",
+      "workingDirectory": ""
+    }
+  }
+}
