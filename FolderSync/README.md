@@ -13,4 +13,22 @@ FolderSync is a utility that keeps a replica folder synchronized with a source f
 
 ### Prerequisites
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download)
+- [.NET Core SDK](https://dotnet.microsoft.com/download) (if building from source)
+
+### Installation
+
+You can either download the latest release or build the project from source.
+
+#### Option 1: Download the Latest Release
+
+1. Go to the [Releases](https://github.com/xciells/FolderSync/releases) section of this repository.
+2. Download the latest release ZIP file (`FolderSync_v1.0.zip`).
+3. Extract the ZIP file to your desired location.
+4. Run the executable inside the extracted folder to start the application.
+
+#### Option 2: Build from Source
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/xciells/FolderSync.git
+   cd FolderSync
